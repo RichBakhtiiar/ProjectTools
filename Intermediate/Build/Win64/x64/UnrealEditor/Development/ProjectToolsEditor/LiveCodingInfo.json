@@ -1,0 +1,13 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.ProjectToolsEditor.cpp.obj": [
+			"ProjectToolsEditor.init.gen.cpp.obj",
+			"ProjectToolsEditorSubsystem.gen.cpp.obj",
+			"ProjectToolsEditor.cpp.obj",
+			"ProjectToolsEditorSubsystem.cpp.obj",
+			"ProjectToolsMenuTool.cpp.obj",
+			"ProjectToolsTypes.cpp.obj"
+		]
+	}
+}

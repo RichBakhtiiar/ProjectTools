@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-ProjectToolsEditor.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\VP_Inception\Intermediate\Build\Win64\x64\InCamVFX_52Editor\Development\UnrealEd\SharedPCH.UnrealEd.ShadowErrors.InclOrderUnreal5_0.h.obj"
+"D:\VP_Inception\Plugins\ProjectTools\Intermediate\Build\Win64\x64\UnrealEditor\Development\ProjectToolsEditor\Module.ProjectToolsEditor.cpp.obj"
+"D:\VP_Inception\Plugins\ProjectTools\Intermediate\Build\Win64\x64\UnrealEditor\Development\ProjectToolsEditor\Default.rc2.res"
+/OUT:"D:\VP_Inception\Plugins\ProjectTools\Intermediate\Build\Win64\x64\UnrealEditor\Development\ProjectToolsEditor\UnrealEditor-ProjectToolsEditor.lib"
