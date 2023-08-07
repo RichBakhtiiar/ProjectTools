@@ -43,4 +43,4 @@ The section provides you with the ability to name the folder in which all of the
 
 ## Setup Affect Distance Field Lighting
 
-The section provides you with the ability to set to true / false Affect Distance Filed Lighting boolean on all static meshes on the current level. Widely used in Virtual Production
+The section provides you with the ability to set to true / false Affect Distance Filed Lighting boolean on all static meshes on the current level. Useful for Virtual Production
