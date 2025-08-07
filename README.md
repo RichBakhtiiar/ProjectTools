@@ -10,7 +10,7 @@ Available functions:
   
 ![Screenshot_1](https://github.com/RichBakhtiiar/ProjectTools/assets/141634532/174c5892-d04d-4fc4-a2ca-435699a84441)
 
-## Installation guide
+## Installation Guide
 
 Go to your project folder and create a new folder with the name “Plugins”. Download and insert the plugin “ProjectTools” folder inside your “Plugins” folder. The plugin is automatically turned on in the project now.
 ![image](https://github.com/RichBakhtiiar/ProjectTools/assets/141634532/c38aef92-c7da-47a1-b881-9094cec7b6e6)
